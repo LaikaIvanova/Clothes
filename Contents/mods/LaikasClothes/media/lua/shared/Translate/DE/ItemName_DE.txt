@@ -105,5 +105,5 @@ ItemName_LIC.Cropped_Tanktop_Black = "Bauchfreies Tanktop [Schwarz]",
 ItemName_LIC.Cropped_Tanktop_White = "Bauchfreies Tanktop [Weiﬂ]",
     -- Lowrise Micro Shorts
 ItemName_LIC.Lowrise_Micro_Shorts_Blue = "Lowrise Microshorts [Blau]",
-ItemName_LIC.Lowrise_Micro_Shorts_Military = "Lowrise Microshorts [Militòr]",
+ItemName_LIC.Lowrise_Micro_Shorts_Military = "Lowrise Microshorts [Milit‰r]",
 }
