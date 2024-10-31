@@ -1,0 +1,39 @@
+-- Data
+    -- Pants Size Guide
+    -- Highrise Y124-126
+    -- Lowrise Y139
+    -- Ultralowrise Y141
+
+Colour Hex Codes:
+    Black:          #000000
+    White:          #FFFFFF
+    Light Grey:     #B0B0B0
+    Grey:           #808080
+    Dark Grey:      #505050
+    Light Red:      #FF6666
+    Red:            #FF0000
+    Dark Red:       #990000
+    Light Orange:   #FFA500
+    Orange:         #FF8C00
+    Dark Orange:    #FF4500
+    Light Yellow:   #FFFF99
+    Yellow:         #FFFF00
+    Dark Yellow:    #CCCC00
+    Light Green:    #66FF66
+    Green:          #008000
+    Dark Green:     #006400
+    Light Cyan:     #00FFFF
+    Cyan:           #00CED1
+    Dark Cyan:      #008B8B
+    Light Blue:     #99CCFF
+    Blue:           #0000FF
+    Dark Blue:      #000080
+    Light Purple:   #DDA0DD
+    Purple:         #800080
+    Dark Purple:    #4B0082
+    Light Pink:     #FFB6C1
+    Pink:           #FF69B4
+    Dark Pink:      #C71585
+    Light Brown:    #A52A2A
+    Brown:          #8B4513
+    Dark Brown:     #5D3A00

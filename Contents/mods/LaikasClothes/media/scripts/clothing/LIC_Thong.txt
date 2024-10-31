@@ -1,0 +1,662 @@
+module LIC
+{
+	item Thong_Black
+	{
+    	DisplayCategory = Clothing,		
+		Type = Clothing,
+		DisplayName = Black Thong,
+		ClothingItem = Thong_Black,
+		BodyLocation = UnderwearBottom,
+		Icon = Thong_Black,
+		BloodLocation = Shirt,
+		Weight = 0.02,
+		CanHaveHoles = False,
+		Insulation = 0.05,
+		WindResistance = 0.05,
+		RunSpeedModifier = 1.0,
+        CombatSpeedModifier = 1.0,
+        BiteDefense = 5,
+        ScratchDefense = 10,
+		WorldStaticModel = Thong_Black_Ground,
+	}
+
+	item Thong_Blue
+	{
+    	DisplayCategory = Clothing,		
+		Type = Clothing,
+		DisplayName = Thong [Blue],
+		ClothingItem = Thong_Blue,
+		BodyLocation = UnderwearBottom,
+		Icon = Thong_Blue,
+		BloodLocation = Shirt,
+		Weight = 0.02,
+		CanHaveHoles = False,
+		Insulation = 0.05,
+		WindResistance = 0.05,
+		RunSpeedModifier = 1.0,
+        CombatSpeedModifier = 1.0,
+        BiteDefense = 5,
+        ScratchDefense = 10,
+		WorldStaticModel = Thong_Blue_Ground,
+	}
+
+	item Thong_Blue_Dark
+	{
+    	DisplayCategory = Clothing,		
+		Type = Clothing,
+		DisplayName = Thong [Dark Blue],
+		ClothingItem = Thong_Blue_Dark,
+		BodyLocation = UnderwearBottom,
+		Icon = Thong_Blue_Dark,
+		BloodLocation = Shirt,
+		Weight = 0.02,
+		CanHaveHoles = False,
+		Insulation = 0.05,
+		WindResistance = 0.05,
+		RunSpeedModifier = 1.0,
+        CombatSpeedModifier = 1.0,
+        BiteDefense = 5,
+        ScratchDefense = 10,
+		WorldStaticModel = Thong_Blue_Dark_Ground,
+	}
+
+	item Thong_Blue_Light
+	{
+    	DisplayCategory = Clothing,		
+		Type = Clothing,
+		DisplayName = Thong [Light Blue],
+		ClothingItem = Thong_Blue_Light,
+		BodyLocation = UnderwearBottom,
+		Icon = Thong_Blue_Light,
+		BloodLocation = Shirt,
+		Weight = 0.02,
+		CanHaveHoles = False,
+		Insulation = 0.05,
+		WindResistance = 0.05,
+		RunSpeedModifier = 1.0,
+        CombatSpeedModifier = 1.0,
+        BiteDefense = 5,
+        ScratchDefense = 10,
+		WorldStaticModel = Thong_Blue_Light_Ground,
+	}
+
+	item Thong_Brown
+	{
+    	DisplayCategory = Clothing,		
+		Type = Clothing,
+		DisplayName = Thong [Brown],
+		ClothingItem = Thong_Brown,
+		BodyLocation = UnderwearBottom,
+		Icon = Thong_Brown,
+		BloodLocation = Shirt,
+		Weight = 0.02,
+		CanHaveHoles = False,
+		Insulation = 0.05,
+		WindResistance = 0.05,
+		RunSpeedModifier = 1.0,
+        CombatSpeedModifier = 1.0,
+        BiteDefense = 5,
+        ScratchDefense = 10,
+		WorldStaticModel = Thong_Brown_Ground,
+	}
+
+	item Thong_Brown_Dark
+	{
+    	DisplayCategory = Clothing,		
+		Type = Clothing,
+		DisplayName = Thong [Dark Brown],
+		ClothingItem = Thong_Brown_Dark,
+		BodyLocation = UnderwearBottom,
+		Icon = Thong_Brown_Dark,
+		BloodLocation = Shirt,
+		Weight = 0.02,
+		CanHaveHoles = False,
+		Insulation = 0.05,
+		WindResistance = 0.05,
+		RunSpeedModifier = 1.0,
+        CombatSpeedModifier = 1.0,
+        BiteDefense = 5,
+        ScratchDefense = 10,
+		WorldStaticModel = Thong_Brown_Dark_Ground,
+	}
+
+	item Thong_Brown_Light
+	{
+    	DisplayCategory = Clothing,		
+		Type = Clothing,
+		DisplayName = Thong [Light Brown],
+		ClothingItem = Thong_Brown_Light,
+		BodyLocation = UnderwearBottom,
+		Icon = Thong_Brown_Light,
+		BloodLocation = Shirt,
+		Weight = 0.02,
+		CanHaveHoles = False,
+		Insulation = 0.05,
+		WindResistance = 0.05,
+		RunSpeedModifier = 1.0,
+        CombatSpeedModifier = 1.0,
+        BiteDefense = 5,
+        ScratchDefense = 10,
+		WorldStaticModel = Thong_Brown_Light_Ground,
+	}
+
+	item Thong_Cyan
+	{
+    	DisplayCategory = Clothing,		
+		Type = Clothing,
+		DisplayName = Thong [Cyan],
+		ClothingItem = Thong_Cyan,
+		BodyLocation = UnderwearBottom,
+		Icon = Thong_Cyan,
+		BloodLocation = Shirt,
+		Weight = 0.02,
+		CanHaveHoles = False,
+		Insulation = 0.05,
+		WindResistance = 0.05,
+		RunSpeedModifier = 1.0,
+        CombatSpeedModifier = 1.0,
+        BiteDefense = 5,
+        ScratchDefense = 10,
+		WorldStaticModel = Thong_Cyan_Ground,
+	}
+
+	item Thong_Cyan_Dark
+	{
+    	DisplayCategory = Clothing,		
+		Type = Clothing,
+		DisplayName = Thong [Dark Cyan],
+		ClothingItem = Thong_Cyan_Dark,
+		BodyLocation = UnderwearBottom,
+		Icon = Thong_Cyan_Dark,
+		BloodLocation = Shirt,
+		Weight = 0.02,
+		CanHaveHoles = False,
+		Insulation = 0.05,
+		WindResistance = 0.05,
+		RunSpeedModifier = 1.0,
+        CombatSpeedModifier = 1.0,
+        BiteDefense = 5,
+        ScratchDefense = 10,
+		WorldStaticModel = Thong_Cyan_Dark_Ground,
+	}
+
+	item Thong_Cyan_Light
+	{
+    	DisplayCategory = Clothing,		
+		Type = Clothing,
+		DisplayName = Thong [Light Cyan],
+		ClothingItem = Thong_Cyan_Light,
+		BodyLocation = UnderwearBottom,
+		Icon = Thong_Cyan_Light,
+		BloodLocation = Shirt,
+		Weight = 0.02,
+		CanHaveHoles = False,
+		Insulation = 0.05,
+		WindResistance = 0.05,
+		RunSpeedModifier = 1.0,
+        CombatSpeedModifier = 1.0,
+        BiteDefense = 5,
+        ScratchDefense = 10,
+		WorldStaticModel = Thong_Cyan_Light_Ground,
+	}
+
+	item Thong_Green
+	{
+    	DisplayCategory = Clothing,		
+		Type = Clothing,
+		DisplayName = Thong [Green],
+		ClothingItem = Thong_Green,
+		BodyLocation = UnderwearBottom,
+		Icon = Thong_Green,
+		BloodLocation = Shirt,
+		Weight = 0.02,
+		CanHaveHoles = False,
+		Insulation = 0.05,
+		WindResistance = 0.05,
+		RunSpeedModifier = 1.0,
+        CombatSpeedModifier = 1.0,
+        BiteDefense = 5,
+        ScratchDefense = 10,
+		WorldStaticModel = Thong_Green_Ground,
+	}
+
+	item Thong_Green_Dark
+	{
+    	DisplayCategory = Clothing,		
+		Type = Clothing,
+		DisplayName = Thong [Dark Green],
+		ClothingItem = Thong_Green_Dark,
+		BodyLocation = UnderwearBottom,
+		Icon = Thong_Green_Dark,
+		BloodLocation = Shirt,
+		Weight = 0.02,
+		CanHaveHoles = False,
+		Insulation = 0.05,
+		WindResistance = 0.05,
+		RunSpeedModifier = 1.0,
+        CombatSpeedModifier = 1.0,
+        BiteDefense = 5,
+        ScratchDefense = 10,
+		WorldStaticModel = Thong_Green_Dark_Ground,
+	}
+
+	item Thong_Green_Light
+	{
+    	DisplayCategory = Clothing,		
+		Type = Clothing,
+		DisplayName = Thong [Light Green],
+		ClothingItem = Thong_Green_Light,
+		BodyLocation = UnderwearBottom,
+		Icon = Thong_Green_Light,
+		BloodLocation = Shirt,
+		Weight = 0.02,
+		CanHaveHoles = False,
+		Insulation = 0.05,
+		WindResistance = 0.05,
+		RunSpeedModifier = 1.0,
+        CombatSpeedModifier = 1.0,
+        BiteDefense = 5,
+        ScratchDefense = 10,
+		WorldStaticModel = Thong_Green_Light_Ground,
+	}
+
+	item Thong_Grey
+	{
+    	DisplayCategory = Clothing,		
+		Type = Clothing,
+		DisplayName = Thong [Grey],
+		ClothingItem = Thong_Grey,
+		BodyLocation = UnderwearBottom,
+		Icon = Thong_Grey,
+		BloodLocation = Shirt,
+		Weight = 0.02,
+		CanHaveHoles = False,
+		Insulation = 0.05,
+		WindResistance = 0.05,
+		RunSpeedModifier = 1.0,
+        CombatSpeedModifier = 1.0,
+        BiteDefense = 5,
+        ScratchDefense = 10,
+		WorldStaticModel = Thong_Grey_Ground,
+	}
+
+	item Thong_Grey_Dark
+	{
+    	DisplayCategory = Clothing,		
+		Type = Clothing,
+		DisplayName = Thong [Dark Grey],
+		ClothingItem = Thong_Grey_Dark,
+		BodyLocation = UnderwearBottom,
+		Icon = Thong_Grey_Dark,
+		BloodLocation = Shirt,
+		Weight = 0.02,
+		CanHaveHoles = False,
+		Insulation = 0.05,
+		WindResistance = 0.05,
+		RunSpeedModifier = 1.0,
+        CombatSpeedModifier = 1.0,
+        BiteDefense = 5,
+        ScratchDefense = 10,
+		WorldStaticModel = Thong_Grey_Dark_Ground,
+	}
+
+	item Thong_Grey_Light
+	{
+    	DisplayCategory = Clothing,		
+		Type = Clothing,
+		DisplayName = Thong [Light Grey],
+		ClothingItem = Thong_Grey_Light,
+		BodyLocation = UnderwearBottom,
+		Icon = Thong_Grey_Light,
+		BloodLocation = Shirt,
+		Weight = 0.02,
+		CanHaveHoles = False,
+		Insulation = 0.05,
+		WindResistance = 0.05,
+		RunSpeedModifier = 1.0,
+        CombatSpeedModifier = 1.0,
+        BiteDefense = 5,
+        ScratchDefense = 10,
+		WorldStaticModel = Thong_Grey_Light_Ground,
+	}
+
+	item Thong_Orange
+	{
+    	DisplayCategory = Clothing,		
+		Type = Clothing,
+		DisplayName = Thong [Orange],
+		ClothingItem = Thong_Orange,
+		BodyLocation = UnderwearBottom,
+		Icon = Thong_Orange,
+		BloodLocation = Shirt,
+		Weight = 0.02,
+		CanHaveHoles = False,
+		Insulation = 0.05,
+		WindResistance = 0.05,
+		RunSpeedModifier = 1.0,
+        CombatSpeedModifier = 1.0,
+        BiteDefense = 5,
+        ScratchDefense = 10,
+		WorldStaticModel = Thong_Orange_Ground,
+	}
+
+	item Thong_Orange_Dark
+	{
+    	DisplayCategory = Clothing,		
+		Type = Clothing,
+		DisplayName = Thong [Dark Orange],
+		ClothingItem = Thong_Orange_Dark,
+		BodyLocation = UnderwearBottom,
+		Icon = Thong_Orange_Dark,
+		BloodLocation = Shirt,
+		Weight = 0.02,
+		CanHaveHoles = False,
+		Insulation = 0.05,
+		WindResistance = 0.05,
+		RunSpeedModifier = 1.0,
+        CombatSpeedModifier = 1.0,
+        BiteDefense = 5,
+        ScratchDefense = 10,
+		WorldStaticModel = Thong_Orange_Dark_Ground,
+	}
+
+	item Thong_Orange_Light
+	{
+    	DisplayCategory = Clothing,		
+		Type = Clothing,
+		DisplayName = Thong [Light Orange],
+		ClothingItem = Thong_Orange_Light,
+		BodyLocation = UnderwearBottom,
+		Icon = Thong_Orange_Light,
+		BloodLocation = Shirt,
+		Weight = 0.02,
+		CanHaveHoles = False,
+		Insulation = 0.05,
+		WindResistance = 0.05,
+		RunSpeedModifier = 1.0,
+        CombatSpeedModifier = 1.0,
+        BiteDefense = 5,
+        ScratchDefense = 10,
+		WorldStaticModel = Thong_Orange_Light_Ground,
+	}
+
+	item Thong_Pink
+	{
+    	DisplayCategory = Clothing,		
+		Type = Clothing,
+		DisplayName = Thong [Pink],
+		ClothingItem = Thong_Pink,
+		BodyLocation = UnderwearBottom,
+		Icon = Thong_Pink,
+		BloodLocation = Shirt,
+		Weight = 0.02,
+		CanHaveHoles = False,
+		Insulation = 0.05,
+		WindResistance = 0.05,
+		RunSpeedModifier = 1.0,
+        CombatSpeedModifier = 1.0,
+        BiteDefense = 5,
+        ScratchDefense = 10,
+		WorldStaticModel = Thong_Pink_Ground,
+	}
+
+	item Thong_Pink_Dark
+	{
+    	DisplayCategory = Clothing,		
+		Type = Clothing,
+		DisplayName = Thong [Dark Pink],
+		ClothingItem = Thong_Pink_Dark,
+		BodyLocation = UnderwearBottom,
+		Icon = Thong_Pink_Dark,
+		BloodLocation = Shirt,
+		Weight = 0.02,
+		CanHaveHoles = False,
+		Insulation = 0.05,
+		WindResistance = 0.05,
+		RunSpeedModifier = 1.0,
+        CombatSpeedModifier = 1.0,
+        BiteDefense = 5,
+        ScratchDefense = 10,
+		WorldStaticModel = Thong_Pink_Dark_Ground,
+	}
+
+	item Thong_Pink_Light
+	{
+    	DisplayCategory = Clothing,		
+		Type = Clothing,
+		DisplayName = Thong [Light Pink],
+		ClothingItem = Thong_Pink_Light,
+		BodyLocation = UnderwearBottom,
+		Icon = Thong_Pink_Light,
+		BloodLocation = Shirt,
+		Weight = 0.02,
+		CanHaveHoles = False,
+		Insulation = 0.05,
+		WindResistance = 0.05,
+		RunSpeedModifier = 1.0,
+        CombatSpeedModifier = 1.0,
+        BiteDefense = 5,
+        ScratchDefense = 10,
+		WorldStaticModel = Thong_Pink_Light_Ground,
+	}
+
+	item Thong_Purple
+	{
+    	DisplayCategory = Clothing,		
+		Type = Clothing,
+		DisplayName = Thong [Purple],
+		ClothingItem = Thong_Purple,
+		BodyLocation = UnderwearBottom,
+		Icon = Thong_Purple,
+		BloodLocation = Shirt,
+		Weight = 0.02,
+		CanHaveHoles = False,
+		Insulation = 0.05,
+		WindResistance = 0.05,
+		RunSpeedModifier = 1.0,
+        CombatSpeedModifier = 1.0,
+        BiteDefense = 5,
+        ScratchDefense = 10,
+		WorldStaticModel = Thong_Purple_Ground,
+	}
+
+	item Thong_Purple_Dark
+	{
+    	DisplayCategory = Clothing,		
+		Type = Clothing,
+		DisplayName = Thong [Dark Purple],
+		ClothingItem = Thong_Purple_Dark,
+		BodyLocation = UnderwearBottom,
+		Icon = Thong_Purple_Dark,
+		BloodLocation = Shirt,
+		Weight = 0.02,
+		CanHaveHoles = False,
+		Insulation = 0.05,
+		WindResistance = 0.05,
+		RunSpeedModifier = 1.0,
+        CombatSpeedModifier = 1.0,
+        BiteDefense = 5,
+        ScratchDefense = 10,
+		WorldStaticModel = Thong_Purple_Dark_Ground,
+	}
+
+	item Thong_Purple_Light
+	{
+    	DisplayCategory = Clothing,		
+		Type = Clothing,
+		DisplayName = Thong [Light Purple],
+		ClothingItem = Thong_Purple_Light,
+		BodyLocation = UnderwearBottom,
+		Icon = Thong_Purple_Light,
+		BloodLocation = Shirt,
+		Weight = 0.02,
+		CanHaveHoles = False,
+		Insulation = 0.05,
+		WindResistance = 0.05,
+		RunSpeedModifier = 1.0,
+        CombatSpeedModifier = 1.0,
+        BiteDefense = 5,
+        ScratchDefense = 10,
+		WorldStaticModel = Thong_Purple_Light_Ground,
+	}
+
+	item Thong_Red
+	{
+    	DisplayCategory = Clothing,		
+		Type = Clothing,
+		DisplayName = Thong [Red],
+		ClothingItem = Thong_Red,
+		BodyLocation = UnderwearBottom,
+		Icon = Thong_Red,
+		BloodLocation = Shirt,
+		Weight = 0.02,
+		CanHaveHoles = False,
+		Insulation = 0.05,
+		WindResistance = 0.05,
+		RunSpeedModifier = 1.0,
+        CombatSpeedModifier = 1.0,
+        BiteDefense = 5,
+        ScratchDefense = 10,
+		WorldStaticModel = Thong_Red_Ground,
+	}
+
+	item Thong_Red_Dark
+	{
+    	DisplayCategory = Clothing,		
+		Type = Clothing,
+		DisplayName = Thong [Dark Red],
+		ClothingItem = Thong_Red_Dark,
+		BodyLocation = UnderwearBottom,
+		Icon = Thong_Red_Dark,
+		BloodLocation = Shirt,
+		Weight = 0.02,
+		CanHaveHoles = False,
+		Insulation = 0.05,
+		WindResistance = 0.05,
+		RunSpeedModifier = 1.0,
+        CombatSpeedModifier = 1.0,
+        BiteDefense = 5,
+        ScratchDefense = 10,
+		WorldStaticModel = Thong_Red_Dark_Ground,
+	}
+
+	item Thong_Red_Light
+	{
+    	DisplayCategory = Clothing,		
+		Type = Clothing,
+		DisplayName = Thong [Light Red],
+		ClothingItem = Thong_Red_Light,
+		BodyLocation = UnderwearBottom,
+		Icon = Thong_Red_Light,
+		BloodLocation = Shirt,
+		Weight = 0.02,
+		CanHaveHoles = False,
+		Insulation = 0.05,
+		WindResistance = 0.05,
+		RunSpeedModifier = 1.0,
+        CombatSpeedModifier = 1.0,
+        BiteDefense = 5,
+        ScratchDefense = 10,
+		WorldStaticModel = Thong_Red_Light_Ground,
+	}
+
+	item Thong_White
+	{
+    	DisplayCategory = Clothing,		
+		Type = Clothing,
+		DisplayName = Thong [White],
+		ClothingItem = Thong_White,
+		BodyLocation = UnderwearBottom,
+		Icon = Thong_White,
+		BloodLocation = Shirt,
+		Weight = 0.02,
+		CanHaveHoles = False,
+		Insulation = 0.05,
+		WindResistance = 0.05,
+		RunSpeedModifier = 1.0,
+        CombatSpeedModifier = 1.0,
+        BiteDefense = 5,
+        ScratchDefense = 10,
+		WorldStaticModel = Thong_White_Ground,
+	}
+
+	item Thong_Yellow
+	{
+    	DisplayCategory = Clothing,		
+		Type = Clothing,
+		DisplayName = Thong [Yellow],
+		ClothingItem = Thong_Yellow,
+		BodyLocation = UnderwearBottom,
+		Icon = Thong_Yellow,
+		BloodLocation = Shirt,
+		Weight = 0.02,
+		CanHaveHoles = False,
+		Insulation = 0.05,
+		WindResistance = 0.05,
+		RunSpeedModifier = 1.0,
+        CombatSpeedModifier = 1.0,
+        BiteDefense = 5,
+        ScratchDefense = 10,
+		WorldStaticModel = Thong_Yellow_Ground,
+	}
+
+	item Thong_Yellow_Dark
+	{
+    	DisplayCategory = Clothing,		
+		Type = Clothing,
+		DisplayName = Thong [Dark Yellow],
+		ClothingItem = Thong_Yellow_Dark,
+		BodyLocation = UnderwearBottom,
+		Icon = Thong_Yellow_Dark,
+		BloodLocation = Shirt,
+		Weight = 0.02,
+		CanHaveHoles = False,
+		Insulation = 0.05,
+		WindResistance = 0.05,
+		RunSpeedModifier = 1.0,
+        CombatSpeedModifier = 1.0,
+        BiteDefense = 5,
+        ScratchDefense = 10,
+		WorldStaticModel = Thong_Yellow_Dark_Ground,
+	}
+
+	item Thong_Yellow_Light
+	{
+    	DisplayCategory = Clothing,		
+		Type = Clothing,
+		DisplayName = Thong [Light Yellow],
+		ClothingItem = Thong_Yellow_Light,
+		BodyLocation = UnderwearBottom,
+		Icon = Thong_Yellow_Light,
+		BloodLocation = Shirt,
+		Weight = 0.02,
+		CanHaveHoles = False,
+		Insulation = 0.05,
+		WindResistance = 0.05,
+		RunSpeedModifier = 1.0,
+        CombatSpeedModifier = 1.0,
+        BiteDefense = 5,
+        ScratchDefense = 10,
+		WorldStaticModel = Thong_Yellow_Light_Ground,
+	}
+
+	item Thong_Military
+	{
+    	DisplayCategory = Clothing,		
+		Type = Clothing,
+		DisplayName = Military Thong,
+		ClothingItem = Thong_Military,
+		BodyLocation = UnderwearBottom,
+		Icon = Thong_Military,
+		BloodLocation = Shirt,
+		Weight = 0.02,
+		CanHaveHoles = False,
+		Insulation = 0.05,
+		WindResistance = 0.05,
+		RunSpeedModifier = 1.0,
+        CombatSpeedModifier = 1.0,
+        BiteDefense = 5,
+        ScratchDefense = 10,
+		WorldStaticModel = Thong_Military_Ground,
+	}
+}

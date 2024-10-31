@@ -1,0 +1,513 @@
+module LIC
+{
+	item Bra_Straps_Blue
+	{
+	    DisplayCategory = Clothing,
+		Type = Clothing,
+		DisplayName = Push-Up Bra [Blue],
+		ClothingItem = Bra_Straps_Blue,
+		BodyLocation = UnderwearTop,
+		Icon = Bra_Straps_Blue,
+		Weight = 0.2,
+		CanHaveHoles = false,
+		RunSpeedModifier = 1.00,
+        CombatSpeedModifier = 1.00,
+        BiteDefense = 5,
+        ScratchDefense = 10,
+		WorldStaticModel = Bra_Straps_Blue_Ground,
+	}
+
+	item Bra_Straps_Blue_Dark
+	{
+	    DisplayCategory = Clothing,
+		Type = Clothing,
+		DisplayName = Push-Up Bra [Dark Blue],
+		ClothingItem = Bra_Straps_Blue_Dark,
+		BodyLocation = UnderwearTop,
+		Icon = Bra_Straps_Blue_Dark,
+		Weight = 0.2,
+		CanHaveHoles = false,
+		RunSpeedModifier = 1.00,
+        CombatSpeedModifier = 1.00,
+        BiteDefense = 5,
+        ScratchDefense = 10,
+		WorldStaticModel = Bra_Straps_Blue_Dark_Ground,
+	}
+
+	item Bra_Straps_Blue_Light
+	{
+	    DisplayCategory = Clothing,
+		Type = Clothing,
+		DisplayName = Push-Up Bra [Light Blue],
+		ClothingItem = Bra_Straps_Blue_Light,
+		BodyLocation = UnderwearTop,
+		Icon = Bra_Straps_Blue_Light,
+		Weight = 0.2,
+		CanHaveHoles = false,
+		RunSpeedModifier = 1.00,
+        CombatSpeedModifier = 1.00,
+        BiteDefense = 5,
+        ScratchDefense = 10,
+		WorldStaticModel = Bra_Straps_Blue_Light_Ground,
+	}
+
+	item Bra_Straps_Brown
+	{
+	    DisplayCategory = Clothing,
+		Type = Clothing,
+		DisplayName = Push-Up Bra [Brown],
+		ClothingItem = Bra_Straps_Brown,
+		BodyLocation = UnderwearTop,
+		Icon = Bra_Straps_Brown,
+		Weight = 0.2,
+		CanHaveHoles = false,
+		RunSpeedModifier = 1.00,
+        CombatSpeedModifier = 1.00,
+        BiteDefense = 5,
+        ScratchDefense = 10,
+		WorldStaticModel = Bra_Straps_Brown_Ground,
+	}
+
+	item Bra_Straps_Brown_Dark
+	{
+	    DisplayCategory = Clothing,
+		Type = Clothing,
+		DisplayName = Push-Up Bra [Dark Brown],
+		ClothingItem = Bra_Straps_Brown_Dark,
+		BodyLocation = UnderwearTop,
+		Icon = Bra_Straps_Brown_Dark,
+		Weight = 0.2,
+		CanHaveHoles = false,
+		RunSpeedModifier = 1.00,
+        CombatSpeedModifier = 1.00,
+        BiteDefense = 5,
+        ScratchDefense = 10,
+		WorldStaticModel = Bra_Straps_Brown_Dark_Ground,
+	}
+
+	item Bra_Straps_Brown_Light
+	{
+	    DisplayCategory = Clothing,
+		Type = Clothing,
+		DisplayName = Push-Up Bra [Light Brown],
+		ClothingItem = Bra_Straps_Brown_Light,
+		BodyLocation = UnderwearTop,
+		Icon = Bra_Straps_Brown_Light,
+		Weight = 0.2,
+		CanHaveHoles = false,
+		RunSpeedModifier = 1.00,
+        CombatSpeedModifier = 1.00,
+        BiteDefense = 5,
+        ScratchDefense = 10,
+		WorldStaticModel = Bra_Straps_Brown_Light_Ground,
+	}
+
+	item Bra_Straps_Cyan
+	{
+	    DisplayCategory = Clothing,
+		Type = Clothing,
+		DisplayName = Push-Up Bra [Cyan],
+		ClothingItem = Bra_Straps_Cyan,
+		BodyLocation = UnderwearTop,
+		Icon = Bra_Straps_Cyan,
+		Weight = 0.2,
+		CanHaveHoles = false,
+		RunSpeedModifier = 1.00,
+        CombatSpeedModifier = 1.00,
+        BiteDefense = 5,
+        ScratchDefense = 10,
+		WorldStaticModel = Bra_Straps_Cyan_Ground,
+	}
+
+	item Bra_Straps_Cyan_Dark
+	{
+	    DisplayCategory = Clothing,
+		Type = Clothing,
+		DisplayName = Push-Up Bra [Dark Cyan],
+		ClothingItem = Bra_Straps_Cyan_Dark,
+		BodyLocation = UnderwearTop,
+		Icon = Bra_Straps_Cyan_Dark,
+		Weight = 0.2,
+		CanHaveHoles = false,
+		RunSpeedModifier = 1.00,
+        CombatSpeedModifier = 1.00,
+        BiteDefense = 5,
+        ScratchDefense = 10,
+		WorldStaticModel = Bra_Straps_Cyan_Dark_Ground,
+	}
+
+	item Bra_Straps_Cyan_Light
+	{
+	    DisplayCategory = Clothing,
+		Type = Clothing,
+		DisplayName = Push-Up Bra [Light Cyan],
+		ClothingItem = Bra_Straps_Cyan_Light,
+		BodyLocation = UnderwearTop,
+		Icon = Bra_Straps_Cyan_Light,
+		Weight = 0.2,
+		CanHaveHoles = false,
+		RunSpeedModifier = 1.00,
+        CombatSpeedModifier = 1.00,
+        BiteDefense = 5,
+        ScratchDefense = 10,
+		WorldStaticModel = Bra_Straps_Cyan_Light_Ground,
+	}
+
+	item Bra_Straps_Green
+	{
+	    DisplayCategory = Clothing,
+		Type = Clothing,
+		DisplayName = Push-Up Bra [Green],
+		ClothingItem = Bra_Straps_Green,
+		BodyLocation = UnderwearTop,
+		Icon = Bra_Straps_Green,
+		Weight = 0.2,
+		CanHaveHoles = false,
+		RunSpeedModifier = 1.00,
+        CombatSpeedModifier = 1.00,
+        BiteDefense = 5,
+        ScratchDefense = 10,
+		WorldStaticModel = Bra_Straps_Green_Ground,
+	}
+
+	item Bra_Straps_Green_Dark
+	{
+	    DisplayCategory = Clothing,
+		Type = Clothing,
+		DisplayName = Push-Up Bra [Dark Green],
+		ClothingItem = Bra_Straps_Green_Dark,
+		BodyLocation = UnderwearTop,
+		Icon = Bra_Straps_Green_Dark,
+		Weight = 0.2,
+		CanHaveHoles = false,
+		RunSpeedModifier = 1.00,
+        CombatSpeedModifier = 1.00,
+        BiteDefense = 5,
+        ScratchDefense = 10,
+		WorldStaticModel = Bra_Straps_Green_Dark_Ground,
+	}
+
+	item Bra_Straps_Green_Light
+	{
+	    DisplayCategory = Clothing,
+		Type = Clothing,
+		DisplayName = Push-Up Bra [Light Green],
+		ClothingItem = Bra_Straps_Green_Light,
+		BodyLocation = UnderwearTop,
+		Icon = Bra_Straps_Green_Light,
+		Weight = 0.2,
+		CanHaveHoles = false,
+		RunSpeedModifier = 1.00,
+        CombatSpeedModifier = 1.00,
+        BiteDefense = 5,
+        ScratchDefense = 10,
+		WorldStaticModel = Bra_Straps_Green_Light_Ground,
+	}
+
+	item Bra_Straps_Grey
+	{
+	    DisplayCategory = Clothing,
+		Type = Clothing,
+		DisplayName = Push-Up Bra [Grey],
+		ClothingItem = Bra_Straps_Grey,
+		BodyLocation = UnderwearTop,
+		Icon = Bra_Straps_Grey,
+		Weight = 0.2,
+		CanHaveHoles = false,
+		RunSpeedModifier = 1.00,
+        CombatSpeedModifier = 1.00,
+        BiteDefense = 5,
+        ScratchDefense = 10,
+		WorldStaticModel = Bra_Straps_Grey_Ground,
+	}
+
+	item Bra_Straps_Grey_Dark
+	{
+	    DisplayCategory = Clothing,
+		Type = Clothing,
+		DisplayName = Push-Up Bra [Dark Grey],
+		ClothingItem = Bra_Straps_Grey_Dark,
+		BodyLocation = UnderwearTop,
+		Icon = Bra_Straps_Grey_Dark,
+		Weight = 0.2,
+		CanHaveHoles = false,
+		RunSpeedModifier = 1.00,
+        CombatSpeedModifier = 1.00,
+        BiteDefense = 5,
+        ScratchDefense = 10,
+		WorldStaticModel = Bra_Straps_Grey_Dark_Ground,
+	}
+
+	item Bra_Straps_Grey_Light
+	{
+	    DisplayCategory = Clothing,
+		Type = Clothing,
+		DisplayName = Push-Up Bra [Light Grey],
+		ClothingItem = Bra_Straps_Grey_Light,
+		BodyLocation = UnderwearTop,
+		Icon = Bra_Straps_Grey_Light,
+		Weight = 0.2,
+		CanHaveHoles = false,
+		RunSpeedModifier = 1.00,
+        CombatSpeedModifier = 1.00,
+        BiteDefense = 5,
+        ScratchDefense = 10,
+		WorldStaticModel = Bra_Straps_Grey_Light_Ground,
+	}
+
+	item Bra_Straps_Orange
+	{
+	    DisplayCategory = Clothing,
+		Type = Clothing,
+		DisplayName = Push-Up Bra [Orange],
+		ClothingItem = Bra_Straps_Orange,
+		BodyLocation = UnderwearTop,
+		Icon = Bra_Straps_Orange,
+		Weight = 0.2,
+		CanHaveHoles = false,
+		RunSpeedModifier = 1.00,
+        CombatSpeedModifier = 1.00,
+        BiteDefense = 5,
+        ScratchDefense = 10,
+		WorldStaticModel = Bra_Straps_Orange_Ground,
+	}
+
+	item Bra_Straps_Orange_Dark
+	{
+	    DisplayCategory = Clothing,
+		Type = Clothing,
+		DisplayName = Push-Up Bra [Dark Orange],
+		ClothingItem = Bra_Straps_Orange_Dark,
+		BodyLocation = UnderwearTop,
+		Icon = Bra_Straps_Orange_Dark,
+		Weight = 0.2,
+		CanHaveHoles = false,
+		RunSpeedModifier = 1.00,
+        CombatSpeedModifier = 1.00,
+        BiteDefense = 5,
+        ScratchDefense = 10,
+		WorldStaticModel = Bra_Straps_Orange_Dark_Ground,
+	}
+
+	item Bra_Straps_Orange_Light
+	{
+	    DisplayCategory = Clothing,
+		Type = Clothing,
+		DisplayName = Push-Up Bra [Light Orange],
+		ClothingItem = Bra_Straps_Orange_Light,
+		BodyLocation = UnderwearTop,
+		Icon = Bra_Straps_Orange_Light,
+		Weight = 0.2,
+		CanHaveHoles = false,
+		RunSpeedModifier = 1.00,
+        CombatSpeedModifier = 1.00,
+        BiteDefense = 5,
+        ScratchDefense = 10,
+		WorldStaticModel = Bra_Straps_Orange_Light_Ground,
+	}
+
+	item Bra_Straps_Pink
+	{
+	    DisplayCategory = Clothing,
+		Type = Clothing,
+		DisplayName = Push-Up Bra [Pink],
+		ClothingItem = Bra_Straps_Pink,
+		BodyLocation = UnderwearTop,
+		Icon = Bra_Straps_Pink,
+		Weight = 0.2,
+		CanHaveHoles = false,
+		RunSpeedModifier = 1.00,
+        CombatSpeedModifier = 1.00,
+        BiteDefense = 5,
+        ScratchDefense = 10,
+		WorldStaticModel = Bra_Straps_Pink_Ground,
+	}
+
+	item Bra_Straps_Pink_Dark
+	{
+	    DisplayCategory = Clothing,
+		Type = Clothing,
+		DisplayName = Push-Up Bra [Dark Pink],
+		ClothingItem = Bra_Straps_Pink_Dark,
+		BodyLocation = UnderwearTop,
+		Icon = Bra_Straps_Pink_Dark,
+		Weight = 0.2,
+		CanHaveHoles = false,
+		RunSpeedModifier = 1.00,
+        CombatSpeedModifier = 1.00,
+        BiteDefense = 5,
+        ScratchDefense = 10,
+		WorldStaticModel = Bra_Straps_Pink_Dark_Ground,
+	}
+
+	item Bra_Straps_Pink_Light
+	{
+	    DisplayCategory = Clothing,
+		Type = Clothing,
+		DisplayName = Push-Up Bra [Light Pink],
+		ClothingItem = Bra_Straps_Pink_Light,
+		BodyLocation = UnderwearTop,
+		Icon = Bra_Straps_Pink_Light,
+		Weight = 0.2,
+		CanHaveHoles = false,
+		RunSpeedModifier = 1.00,
+        CombatSpeedModifier = 1.00,
+        BiteDefense = 5,
+        ScratchDefense = 10,
+		WorldStaticModel = Bra_Straps_Pink_Light_Ground,
+	}
+
+	item Bra_Straps_Purple
+	{
+	    DisplayCategory = Clothing,
+		Type = Clothing,
+		DisplayName = Push-Up Bra [Purple],
+		ClothingItem = Bra_Straps_Purple,
+		BodyLocation = UnderwearTop,
+		Icon = Bra_Straps_Purple,
+		Weight = 0.2,
+		CanHaveHoles = false,
+		RunSpeedModifier = 1.00,
+        CombatSpeedModifier = 1.00,
+        BiteDefense = 5,
+        ScratchDefense = 10,
+		WorldStaticModel = Bra_Straps_Purple_Ground,
+	}
+
+	item Bra_Straps_Purple_Dark
+	{
+	    DisplayCategory = Clothing,
+		Type = Clothing,
+		DisplayName = Push-Up Bra [Dark Purple],
+		ClothingItem = Bra_Straps_Purple_Dark,
+		BodyLocation = UnderwearTop,
+		Icon = Bra_Straps_Purple_Dark,
+		Weight = 0.2,
+		CanHaveHoles = false,
+		RunSpeedModifier = 1.00,
+        CombatSpeedModifier = 1.00,
+        BiteDefense = 5,
+        ScratchDefense = 10,
+		WorldStaticModel = Bra_Straps_Purple_Dark_Ground,
+	}
+
+	item Bra_Straps_Purple_Light
+	{
+	    DisplayCategory = Clothing,
+		Type = Clothing,
+		DisplayName = Push-Up Bra [Light Purple],
+		ClothingItem = Bra_Straps_Purple_Light,
+		BodyLocation = UnderwearTop,
+		Icon = Bra_Straps_Purple_Light,
+		Weight = 0.2,
+		CanHaveHoles = false,
+		RunSpeedModifier = 1.00,
+        CombatSpeedModifier = 1.00,
+        BiteDefense = 5,
+        ScratchDefense = 10,
+		WorldStaticModel = Bra_Straps_Purple_Light_Ground,
+	}
+
+	item Bra_Straps_Red
+	{
+	    DisplayCategory = Clothing,
+		Type = Clothing,
+		DisplayName = Push-Up Bra [Red],
+		ClothingItem = Bra_Straps_Red,
+		BodyLocation = UnderwearTop,
+		Icon = Bra_Straps_Red,
+		Weight = 0.2,
+		CanHaveHoles = false,
+		RunSpeedModifier = 1.00,
+        CombatSpeedModifier = 1.00,
+        BiteDefense = 5,
+        ScratchDefense = 10,
+		WorldStaticModel = Bra_Straps_Red_Ground,
+	}
+
+	item Bra_Straps_Red_Dark
+	{
+	    DisplayCategory = Clothing,
+		Type = Clothing,
+		DisplayName = Push-Up Bra [Dark Red],
+		ClothingItem = Bra_Straps_Red_Dark,
+		BodyLocation = UnderwearTop,
+		Icon = Bra_Straps_Red_Dark,
+		Weight = 0.2,
+		CanHaveHoles = false,
+		RunSpeedModifier = 1.00,
+        CombatSpeedModifier = 1.00,
+        BiteDefense = 5,
+        ScratchDefense = 10,
+		WorldStaticModel = Bra_Straps_Red_Dark_Ground,
+	}
+
+	item Bra_Straps_Red_Light
+	{
+	    DisplayCategory = Clothing,
+		Type = Clothing,
+		DisplayName = Push-Up Bra [Light Red],
+		ClothingItem = Bra_Straps_Red_Light,
+		BodyLocation = UnderwearTop,
+		Icon = Bra_Straps_Red_Light,
+		Weight = 0.2,
+		CanHaveHoles = false,
+		RunSpeedModifier = 1.00,
+        CombatSpeedModifier = 1.00,
+        BiteDefense = 5,
+        ScratchDefense = 10,
+		WorldStaticModel = Bra_Straps_Red_Light_Ground,
+	}
+
+	item Bra_Straps_Yellow
+	{
+	    DisplayCategory = Clothing,
+		Type = Clothing,
+		DisplayName = Push-Up Bra [Yellow],
+		ClothingItem = Bra_Straps_Yellow,
+		BodyLocation = UnderwearTop,
+		Icon = Bra_Straps_Yellow,
+		Weight = 0.2,
+		CanHaveHoles = false,
+		RunSpeedModifier = 1.00,
+        CombatSpeedModifier = 1.00,
+        BiteDefense = 5,
+        ScratchDefense = 10,
+		WorldStaticModel = Bra_Straps_Yellow_Ground,
+	}
+
+	item Bra_Straps_Yellow_Dark
+	{
+	    DisplayCategory = Clothing,
+		Type = Clothing,
+		DisplayName = Push-Up Bra [Dark Yellow],
+		ClothingItem = Bra_Straps_Yellow_Dark,
+		BodyLocation = UnderwearTop,
+		Icon = Bra_Straps_Yellow_Dark,
+		Weight = 0.2,
+		CanHaveHoles = false,
+		RunSpeedModifier = 1.00,
+        CombatSpeedModifier = 1.00,
+        BiteDefense = 5,
+        ScratchDefense = 10,
+		WorldStaticModel = Bra_Straps_Yellow_Dark_Ground,
+	}
+
+	item Bra_Straps_Yellow_Light
+	{
+	    DisplayCategory = Clothing,
+		Type = Clothing,
+		DisplayName = Push-Up Bra [Light Yellow],
+		ClothingItem = Bra_Straps_Yellow_Light,
+		BodyLocation = UnderwearTop,
+		Icon = Bra_Straps_Yellow_Light,
+		Weight = 0.2,
+		CanHaveHoles = false,
+		RunSpeedModifier = 1.00,
+        CombatSpeedModifier = 1.00,
+        BiteDefense = 5,
+        ScratchDefense = 10,
+		WorldStaticModel = Bra_Straps_Yellow_Light_Ground,
+	}
+
+}

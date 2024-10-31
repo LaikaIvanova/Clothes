@@ -1,0 +1,10 @@
+module Base
+{
+	/****************************** CLOTHING_PANTS ******************************/
+
+	model Thong_Black_Ground
+    	{
+        	mesh = worlditems/clothing/Thong_Black_Ground,
+        	scale = 1.0,
+    	}
+}
