@@ -140,6 +140,10 @@
 			<path>media/clothing/clothingItems/Bra_Straps_Yellow_Light.xml</path>
 			<guid>b9b20e4f-6b7e-4b49-95df-59e50aa9ca34</guid>
 		</files>
+		<files>
+			<path>media/clothing/clothingItems/Bra_Straps_Military.xml</path>
+			<guid>9f897829-3af1-417a-8738-b007b0020a3a</guid>
+		</files>
 		<!--Strapless Bra-->
 		<files>
 			<path>media/clothing/clothingItems/Bra_Strapless_Blue.xml</path>
@@ -260,6 +264,10 @@
 		<files>
 			<path>media/clothing/clothingItems/Bra_Strapless_Yellow_Light.xml</path>
 			<guid>d15d65cc-8b35-45c3-bb18-77baf936205c</guid>
+		</files>
+		<files>
+			<path>media/clothing/clothingItems/Bra_Strapless_Military.xml</path>
+			<guid>ee5e1d9a-7e07-4aaf-9c95-95338a1973aa</guid>
 		</files>
 		<!--Thong-->
 		<files>
