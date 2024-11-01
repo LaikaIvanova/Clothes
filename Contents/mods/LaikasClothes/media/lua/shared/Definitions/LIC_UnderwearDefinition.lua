@@ -324,8 +324,8 @@ UnderwearDefinition.Laika_Female_Thong_Military = {
 	chanceToSpawn = 5,
 	gender = "female",
 	top = {
-		{name="Bra_Strapless_Black", chance=50},
-		{name="Bra_Straps_Black", chance=50},
+		{name="Bra_Strapless_Military", chance=50},
+		{name="Bra_Straps_Military", chance=50},
 	},
 	bottom = "LIC.Thong_Military",
 }
