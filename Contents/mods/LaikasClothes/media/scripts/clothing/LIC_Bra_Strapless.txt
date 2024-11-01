@@ -509,4 +509,21 @@ module LIC
         ScratchDefense = 10,
 		WorldStaticModel = Bra_Strapless_Yellow_Light_Ground,
 	}
+
+	item Bra_Strapless_Military
+	{
+	    DisplayCategory = Clothing,
+		Type = Clothing,
+		DisplayName = Strapless Bra [Military],
+		ClothingItem = Bra_Strapless_Military,
+		BodyLocation = UnderwearTop,
+		Icon = Bra_Strapless_Military,
+		Weight = 0.2,
+		CanHaveHoles = false,
+		RunSpeedModifier = 1.00,
+        CombatSpeedModifier = 1.00,
+        BiteDefense = 5,
+        ScratchDefense = 10,
+		WorldStaticModel = Bra_Strapless_Military_Ground,
+	}
 }

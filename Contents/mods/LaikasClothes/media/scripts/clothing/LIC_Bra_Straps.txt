@@ -510,4 +510,20 @@ module LIC
 		WorldStaticModel = Bra_Straps_Yellow_Light_Ground,
 	}
 
+	item Bra_Straps_Military
+	{
+	    DisplayCategory = Clothing,
+		Type = Clothing,
+		DisplayName = Push-Up Bra [Military],
+		ClothingItem = Bra_Straps_Military,
+		BodyLocation = UnderwearTop,
+		Icon = Bra_Straps_Military,
+		Weight = 0.2,
+		CanHaveHoles = false,
+		RunSpeedModifier = 1.00,
+        CombatSpeedModifier = 1.00,
+        BiteDefense = 5,
+        ScratchDefense = 10,
+		WorldStaticModel = Bra_Straps_Military_Ground,
+	}
 }
