@@ -64,6 +64,7 @@ TweakItem("LIC.Bra_Straps_Red_Light","DisplayCategory","Kleidung_[Unterwaesche-P
 TweakItem("LIC.Bra_Straps_Yellow","DisplayCategory","Kleidung_[Unterwaesche-Primaer]");
 TweakItem("LIC.Bra_Straps_Yellow_Dark","DisplayCategory","Kleidung_[Unterwaesche-Primaer]");
 TweakItem("LIC.Bra_Straps_Yellow_Light","DisplayCategory","Kleidung_[Unterwaesche-Primaer]");
+TweakItem("LIC.Bra_Straps_Military","DisplayCategory","Kleidung_[Unterwaesche-Primaer]");
 -- Bra Strapless
 TweakItem("LIC.Bra_Strapless_Blue","DisplayCategory","Kleidung_[Unterwaesche-Primaer]");
 TweakItem("LIC.Bra_Strapless_Blue_Dark","DisplayCategory","Kleidung_[Unterwaesche-Primaer]");
@@ -95,6 +96,7 @@ TweakItem("LIC.Bra_Strapless_Red_Light","DisplayCategory","Kleidung_[Unterwaesch
 TweakItem("LIC.Bra_Strapless_Yellow","DisplayCategory","Kleidung_[Unterwaesche-Primaer]");
 TweakItem("LIC.Bra_Strapless_Yellow_Dark","DisplayCategory","Kleidung_[Unterwaesche-Primaer]");
 TweakItem("LIC.Bra_Strapless_Yellow_Light","DisplayCategory","Kleidung_[Unterwaesche-Primaer]");
+TweakItem("LIC.Bra_Strapless_Military","DisplayCategory","Kleidung_[Unterwaesche-Primaer]");
 -- Short Tanktops
 TweakItem("LIC.Cropped_Tanktop_Black","DisplayCategory","Kleidung_[Oben-Sekundaer]");
 TweakItem("LIC.Cropped_Tanktop_White","DisplayCategory","Kleidung_[Oben-Sekundaer]");
