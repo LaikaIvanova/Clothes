@@ -1,0 +1,11 @@
+name=Laika's Clothes
+description=Adds custom clothes.
+id=laikasclothes
+poster=poster.png
+modversion=1.0.0
+author=Laika Ivanova
+url=https://www.laikaivanova.com/
+modlink=https://steamcommunity.com/sharedfiles/filedetails/?id=3170506165
+workshopid=3170506165
+versionMin=42.0.0
+versionMax=42.0.1
