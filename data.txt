@@ -4,6 +4,56 @@
     -- Lowrise Y139
     -- Ultralowrise Y141
 
+Clothing Values:
+    Pants [Denim]:
+		Insulation = 0.65,
+        WaterResistance = 0.5,
+		WindResistance = 0.60,
+        RunSpeedModifier = 0.97,
+        CombatSpeedModifier = 1.00,
+        BiteDefense = 10,
+        ScratchDefense = 20,
+    Pants [Leather]:
+        Insulation = 0.65,
+        WaterResistance = 0.5,
+		WindResistance = 0.60,
+		RunSpeedModifier = 0.97,
+        CombatSpeedModifier = 1.00,
+        BiteDefense = 20,
+        ScratchDefense = 40,
+    Shorts []:
+        Insulation = 0.5,
+        WaterResistance = 0.3,
+		WindResistance = 0.3,
+		RunSpeedModifier = 0.98,
+        CombatSpeedModifier = 1.00,
+        BiteDefense = 7.5,
+        ScratchDefense = 15,
+    Microshorts []:
+        Insulation = 0.25,
+        WaterResistance = 0.15,
+		WindResistance = 0.15,
+		RunSpeedModifier = 0.99,
+        CombatSpeedModifier = 1.05,
+        BiteDefense = 5,
+        ScratchDefense = 10,
+    Underwear [Bra]:
+        Insulation = 0.05,
+        WaterResistance = 0.05,
+		WindResistance = 0.05,
+		RunSpeedModifier = 1.01,
+        CombatSpeedModifier = 1.05,
+        BiteDefense = 2.5,
+        ScratchDefense = 5,
+    Underwear [Bottom]:
+        Insulation = 0.05,
+        WaterResistance = 0.05,
+		WindResistance = 0.05,
+		RunSpeedModifier = 1.01,
+        CombatSpeedModifier = 1.05,
+        BiteDefense = 2.5,
+        ScratchDefense = 5,
+
 Colour Hex Codes:
     Black:          #000000
     White:          #FFFFFF
